@@ -1,10 +1,14 @@
 # Proyecto-Grupo-3
 
-##Automatización de préstamos del Laboratorio de Electrónica
+CI: https://circleci.com/gh/proyectoPDSW/Proyecto-Grupo-3
+Heroku deployment: labelectronica.herokuapp.com
 
-##Prácticas SCRUM
 
-##Integrantes: 
+## Automatización de préstamos del Laboratorio de Electrónica
+
+## Prácticas SCRUM
+
+## Integrantes: 
 
 Hugo F. Álvarez Lucena
 
@@ -15,4 +19,3 @@ Germán Andrés López Pacheco
 Daniela Sepúlveda Alzate
 
 David Esteban Useche Peláez
-
